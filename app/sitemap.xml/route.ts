@@ -1,0 +1,2 @@
+import {familyResources} from '@/lib/family-resources';
+export function GET(){const paths=['/start','/try','/family-guide','/resources','/privacy','/terms','/support',...familyResources.map(r=>'/resources/'+r.slug)];return new Response('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+paths.map(p=>'<url><loc>https://schoolday-os.sickyicky.chatgpt.site'+p+'</loc></url>').join('')+'</urlset>',{headers:{'Content-Type':'application/xml'}})}

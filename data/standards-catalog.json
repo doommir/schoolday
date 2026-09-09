@@ -1,0 +1,4173 @@
+[
+  {
+    "id": "6.EE.1",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/453",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.EE.2.a",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/454",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.EE.2.b",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/455",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.EE.2.c",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/456",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.EE.3",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/457",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.EE.4",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/458",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.EE.5",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/459",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.EE.6",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/460",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.EE.7",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/461",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.EE.8",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/462",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.EE.9",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/463",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.G.1",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/464",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.G.2",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/465",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.G.3",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/466",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.G.4",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/467",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.NS.1",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/439",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.NS.2",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/440",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.NS.3",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/441",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.NS.4",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/442",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.NS.5",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/443",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.NS.6.a",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/444",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.NS.6.b",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/445",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.NS.6.c",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/446",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.NS.7.a",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/447",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.NS.7.b",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/448",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.NS.7.c",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/450",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.NS.7.d",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/451",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.NS.8",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/452",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.RP.1",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Ratios and Proportional Relationships",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/433",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.RP.2",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Ratios and Proportional Relationships",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/434",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.RP.3.a",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Ratios and Proportional Relationships",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/435",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.RP.3.b",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Ratios and Proportional Relationships",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/436",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.RP.3.c",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Ratios and Proportional Relationships",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/437",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.RP.3.d",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Ratios and Proportional Relationships",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/438",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.SP.1",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/468",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.SP.2",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/469",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.SP.3",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/470",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.SP.4",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/471",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.SP.5.a",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/472",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.SP.5.b",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/473",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.SP.5.c",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/474",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "6.SP.5.d",
+    "grade": 6,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/475",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.EE.1",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/491",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.EE.2",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/492",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.EE.3",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/493",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.EE.4.a",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/494",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.EE.4.b",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/495",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.G.1",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/496",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.G.2",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/497",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.G.3",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/498",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.G.4",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/499",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.G.5",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/500",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.G.6",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/501",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.NS.1.a",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/482",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.NS.1.b",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/483",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.NS.1.c",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/484",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.NS.1.d",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/485",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.NS.2.a",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/486",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.NS.2.b",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/487",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.NS.2.c",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/488",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.NS.2.d",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/489",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.NS.3",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/490",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.RP.1",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Ratios and Proportional Relationships",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/476",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.RP.2.a",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Ratios and Proportional Relationships",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/477",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.RP.2.b",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Ratios and Proportional Relationships",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/478",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.RP.2.c",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Ratios and Proportional Relationships",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/479",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.RP.2.d",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Ratios and Proportional Relationships",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/480",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.RP.3",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Ratios and Proportional Relationships",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/481",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.SP.1",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/502",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.SP.2",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/503",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.SP.3",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/504",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.SP.4",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/505",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.SP.5",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/506",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.SP.6",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/507",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.SP.7.a",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/508",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.SP.7.b",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/509",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.SP.8.a",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/510",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.SP.8.b",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/511",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "7.SP.8.c",
+    "grade": 7,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/512",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.EE.1",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/515",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.EE.2",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/516",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.EE.3",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/517",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.EE.4",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/518",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.EE.5",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/519",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.EE.6",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/520",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.EE.7.a",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/521",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.EE.7.b",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/522",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.EE.8.a",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/523",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.EE.8.b",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/524",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.EE.8.c",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Expressions and Equations",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/525",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.F.1",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Functions",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/526",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.F.2",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Functions",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/527",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.F.3",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Functions",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/528",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.F.4",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Functions",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/529",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.F.5",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Functions",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/530",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.G.1.a",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/531",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.G.1.b",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/532",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.G.1.c",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/533",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.G.2",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/534",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.G.3",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/535",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.G.4",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/536",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.G.5",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/537",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.G.6",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/538",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.G.7",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/539",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.G.8",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/449",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.G.9",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Geometry",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/540",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.NS.1",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/513",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.NS.2",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "The Number System",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/514",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.SP.1",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/541",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.SP.2",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/542",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.SP.3",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/543",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "8.SP.4",
+    "grade": 8,
+    "subject": "Math",
+    "domain": "Statistics and Probability",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/544",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.6.1",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5815",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.6.2",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5816",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.6.3",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5817",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.6.4",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5818",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.6.5",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5819",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.6.6",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5820",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.6.1",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5789",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.6.10",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5798",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.6.2",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5790",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.6.3",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5791",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.6.4",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5792",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.6.5",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5793",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.6.6",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5794",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.6.7",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5795",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.6.8",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5796",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.6.9",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5797",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.6.1",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5779",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.6.10",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5788",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.6.2",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5780",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.6.3",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5781",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.6.4",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5782",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.6.5",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5783",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.6.6",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5784",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.6.7",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5785",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.6.8",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5786",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.6.9",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5787",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.6.1",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5809",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.6.2",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5810",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.6.3",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5811",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.6.4",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5812",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.6.5",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5813",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.6.6",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5814",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.1",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5799",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.1",
+    "grade": 6,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5799",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.10",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5808",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.10",
+    "grade": 6,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5808",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.2",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5800",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.2",
+    "grade": 6,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5800",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.3",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5801",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.3",
+    "grade": 6,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5801",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.4",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5802",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.4",
+    "grade": 6,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5802",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.5",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5803",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.5",
+    "grade": 6,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5803",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.6",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5804",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.6",
+    "grade": 6,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5804",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.7",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5805",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.7",
+    "grade": 6,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5805",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.8",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5806",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.8",
+    "grade": 6,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5806",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.9",
+    "grade": 6,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5807",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.6.9",
+    "grade": 6,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5807",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.7.1",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5857",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.7.2",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5858",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.7.3",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5859",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.7.4",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5860",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.7.5",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5861",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.7.6",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5862",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.7.1",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5831",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.7.10",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5840",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.7.2",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5832",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.7.3",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5833",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.7.4",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5834",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.7.5",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5835",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.7.6",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5836",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.7.7",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5837",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.7.8",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5838",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.7.9",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5839",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.7.1",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5821",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.7.10",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5830",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.7.2",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5822",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.7.3",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5823",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.7.4",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5824",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.7.5",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5825",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.7.6",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5826",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.7.7",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5827",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.7.8",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5828",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.7.9",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5829",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.7.1",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5851",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.7.2",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5852",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.7.3",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5853",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.7.4",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5854",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.7.5",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5855",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.7.6",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5856",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.1",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5841",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.1",
+    "grade": 7,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5841",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.10",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5850",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.10",
+    "grade": 7,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5850",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.2",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5842",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.2",
+    "grade": 7,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5842",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.3",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5843",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.3",
+    "grade": 7,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5843",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.4",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5844",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.4",
+    "grade": 7,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5844",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.5",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5845",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.5",
+    "grade": 7,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5845",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.6",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5846",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.6",
+    "grade": 7,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5846",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.7",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5847",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.7",
+    "grade": 7,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5847",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.8",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5848",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.8",
+    "grade": 7,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5848",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.9",
+    "grade": 7,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5849",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.7.9",
+    "grade": 7,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5849",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.8.1",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5899",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.8.2",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5900",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.8.3",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5901",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.8.4",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5902",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.8.5",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5903",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "L.8.6",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Language",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5904",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.8.1",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5873",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.8.10",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5882",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.8.2",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5874",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.8.3",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5875",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.8.4",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5876",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.8.5",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5877",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.8.6",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5878",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.8.7",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5879",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.8.8",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5880",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RI.8.9",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Informational Text",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5881",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.8.1",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5863",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.8.10",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5872",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.8.2",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5864",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.8.3",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5865",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.8.4",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5866",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.8.5",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5867",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.8.6",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5868",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.8.7",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5869",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.8.8",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5870",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "RL.8.9",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Reading: Literature",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5871",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.8.1",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5893",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.8.2",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5894",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.8.3",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5895",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.8.4",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5896",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.8.5",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5897",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "SL.8.6",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Speaking and Listening",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5898",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.1",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5883",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.1",
+    "grade": 8,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5883",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.10",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5892",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.10",
+    "grade": 8,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5892",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.2",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5884",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.2",
+    "grade": 8,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5884",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.3",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5885",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.3",
+    "grade": 8,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5885",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.4",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5886",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.4",
+    "grade": 8,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5886",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.5",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5887",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.5",
+    "grade": 8,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5887",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.6",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5888",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.6",
+    "grade": 8,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5888",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.7",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5889",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.7",
+    "grade": 8,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5889",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.8",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5890",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.8",
+    "grade": 8,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5890",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.9",
+    "grade": 8,
+    "subject": "Literacy",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5891",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "W.8.9",
+    "grade": 8,
+    "subject": "Studio",
+    "domain": "Writing",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/5891",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.1.1",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4274",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.1.2",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4275",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.1.3",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4276",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.2.1",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4278",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.2.2",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4279",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.2.3",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4280",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.2.4",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4281",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.2.5",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4282",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.2.6",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4283",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.2.7",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4284",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.2.8",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4285",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.2.9",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4286",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.3.1",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4288",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.3.2",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4289",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.3.3",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4290",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.3.4",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4291",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.3.5",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4292",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.4.1",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4294",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.4.2",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4295",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.4.3",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4296",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.4.4",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4297",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.4.5",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4298",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.4.6",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4299",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.4.7",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4300",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.4.8",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4301",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.5.1",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4303",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.5.2",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4304",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.5.3",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4305",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.5.4",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4306",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.5.5",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4307",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.5.6",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4308",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.5.7",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4309",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.6.1",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4311",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.6.2",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4312",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.6.3",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4313",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.6.4",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4314",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.6.5",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4315",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.6.6",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4316",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.6.7",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4317",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.6.8",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4318",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.7.1",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4320",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.7.2",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4321",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.7.3",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4322",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.7.4",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4323",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.7.5",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4324",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.7.6",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4325",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.7.7",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4326",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-6.7.8",
+    "grade": 6,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Ancient Civilizations, Grade 6",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4327",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.1.1",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4329",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.1.2",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4330",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.1.3",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4331",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.10.1",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4390",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.10.2",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4391",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.10.3",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4392",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.11.1",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4394",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.11.2",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4395",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.11.3",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4396",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.11.4",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4397",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.11.5",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4398",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.11.6",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4399",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.2.1",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4333",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.2.2",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4334",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.2.3",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4335",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.2.4",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4336",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.2.5",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4337",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.2.6",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4338",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.3.1",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4340",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.3.2",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4341",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.3.3",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4342",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.3.4",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4343",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.3.5",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4344",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.3.6",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4345",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.4.1",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4347",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.4.2",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4348",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.4.3",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4349",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.4.4",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4350",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.4.5",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4351",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.5.1",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4353",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.5.2",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4354",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.5.3",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4355",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.5.4",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4356",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.5.5",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4357",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.5.6",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4358",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.6.1",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4360",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.6.2",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4361",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.6.3",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4362",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.6.4",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4363",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.6.5",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4364",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.6.6",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4365",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.6.7",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4366",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.6.8",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4367",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.6.9",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4368",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.7.1",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4370",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.7.2",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4371",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.7.3",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4372",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.7.4",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4373",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.7.5",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4374",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.8.1",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4376",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.8.2",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4377",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.8.3",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4378",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.8.4",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4379",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.8.5",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4380",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.9.1",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4382",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.9.2",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4383",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.9.3",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4384",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.9.4",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4385",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.9.5",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4386",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.9.6",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4387",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-7.9.7",
+    "grade": 7,
+    "subject": "Humanities",
+    "domain": "World History and Geography: Medieval and Early Modern Times, Grade 7",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4388",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.1.1",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4401",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.1.2",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4402",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.1.3",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4403",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.1.4",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4404",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.10.1",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4458",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.10.2",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4459",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.10.3",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4460",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.10.4",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4461",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.10.5",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4462",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.10.6",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4463",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.10.7",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4464",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.11.1",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4466",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.11.2",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4467",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.11.3",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4468",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.11.4",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4469",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.11.5",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4470",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.12.1",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4472",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.12.2",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4473",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.12.3",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4474",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.12.4",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4475",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.12.5",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4476",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.12.6",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4477",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.12.7",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4478",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.12.8",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4479",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.12.9",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4480",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.2.1",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4406",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.2.2",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4407",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.2.3",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4408",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.2.4",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4409",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.2.5",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4410",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.2.6",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4411",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.2.7",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4412",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.3.1",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4414",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.3.2",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4415",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.3.3",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4416",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.3.4",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4417",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.3.5",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4418",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.3.6",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4419",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.3.7",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4420",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.4.1",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4422",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.4.2",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4423",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.4.3",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4424",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.4.4",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4425",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.5.1",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4427",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.5.2",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4428",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.5.3",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4429",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.6.1",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4431",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.6.2",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4432",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.6.3",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4433",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.6.4",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4434",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.6.5",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4435",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.6.6",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4436",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.6.7",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4437",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.7.1",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4439",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.7.2",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4440",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.7.3",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4441",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.7.4",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4442",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.8.1",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4444",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.8.2",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4445",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.8.3",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4446",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.8.4",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4447",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.8.5",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4448",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.8.6",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4449",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.9.1",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4451",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.9.2",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4452",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.9.3",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4453",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.9.4",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4454",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.9.5",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4455",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "HSS-8.9.6",
+    "grade": 8,
+    "subject": "Humanities",
+    "domain": "United States History and Geography: Growth and Conflict, Grade 8",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/4456",
+    "verified": "2026-09-08"
+  },
+  {
+    "id": "MS-ESS1-1",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Earth and Space Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29056",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-ESS1-2",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Earth and Space Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29057",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-ESS1-3",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Earth and Space Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29058",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-ESS1-4",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Earth and Space Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29059",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-ESS2-1",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Earth and Space Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29060",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-ESS2-2",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Earth and Space Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29061",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-ESS2-3",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Earth and Space Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29062",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-ESS2-4",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Earth and Space Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29063",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-ESS2-5",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Earth and Space Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29064",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-ESS2-6",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Earth and Space Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29065",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-ESS3-1",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Earth and Space Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29066",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-ESS3-2",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Earth and Space Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29067",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-ESS3-3",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Earth and Space Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29068",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-ESS3-4",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Earth and Space Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29069",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-ESS3-5",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Earth and Space Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29070",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-ETS1-1",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Engineering, Technology, and Applications of Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29071",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-ETS1-1",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Engineering, Technology, and Applications of Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29071",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-ETS1-1",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Engineering, Technology, and Applications of Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29071",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-ETS1-2",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Engineering, Technology, and Applications of Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29072",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-ETS1-2",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Engineering, Technology, and Applications of Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29072",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-ETS1-2",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Engineering, Technology, and Applications of Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29072",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-ETS1-3",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Engineering, Technology, and Applications of Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29073",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-ETS1-3",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Engineering, Technology, and Applications of Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29073",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-ETS1-3",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Engineering, Technology, and Applications of Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29073",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-ETS1-4",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Engineering, Technology, and Applications of Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29074",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-ETS1-4",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Engineering, Technology, and Applications of Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29074",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-ETS1-4",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Engineering, Technology, and Applications of Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29074",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-LS1-1",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29075",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-LS1-2",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29076",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-LS1-3",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29077",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-LS1-4",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29078",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-LS1-5",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29079",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-LS1-6",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29080",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-LS1-7",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29081",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-LS1-8",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29082",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-LS2-1",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29083",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-LS2-2",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29084",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-LS2-3",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29085",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-LS2-4",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29086",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-LS2-5",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29087",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-LS3-1",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29088",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-LS3-2",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29089",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-LS4-1",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29090",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-LS4-2",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29091",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-LS4-3",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29092",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-LS4-4",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29093",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-LS4-5",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29094",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-LS4-6",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Life Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29095",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-PS1-1",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29096",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-PS1-2",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29097",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-PS1-3",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29098",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-PS1-4",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29099",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-PS1-5",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29100",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-PS1-6",
+    "grade": 7,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29101",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr7.pdf"
+  },
+  {
+    "id": "MS-PS2-1",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29102",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-PS2-2",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29103",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-PS2-3",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29104",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-PS2-4",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29105",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-PS2-5",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29106",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-PS3-1",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29107",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-PS3-2",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29108",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-PS3-3",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29109",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-PS3-4",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29110",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-PS3-5",
+    "grade": 6,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29111",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/cangsspfintegrgr6.pdf"
+  },
+  {
+    "id": "MS-PS4-1",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29112",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-PS4-2",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29113",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  },
+  {
+    "id": "MS-PS4-3",
+    "grade": 8,
+    "subject": "Science",
+    "domain": "Physical Science",
+    "url": "https://www2.cde.ca.gov/cacs/id/web/29114",
+    "verified": "2026-09-08",
+    "courseUrl": "https://www.cde.ca.gov/ci/pl/documents/preferredintegratedgr8.pdf"
+  }
+]

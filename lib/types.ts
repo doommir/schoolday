@@ -1,0 +1,11 @@
+export const SUBJECTS=['Literacy','Math','Science','Humanities','Studio'] as const;
+export type Subject=typeof SUBJECTS[number];
+export type Choice={text:string;feedback:string};
+export type Stage={kind:'notice'|'teach'|'model'|'practice'|'apply'|'reflect';title:string;content:string;prompt:string;minutes:number;options:Choice[];answer:number;hint:string;rubric:string[];example:string;visual:{kind:'none'|'fraction'|'numberline'|'bar';values:number[];labels:string[];caption:string}};
+export type Lesson={alignment?:{standardId:string;evidence:string};title:string;subject:Subject;grade:number;objective:string;prerequisite:string;materials:string[];stages:Stage[];sources:{title:string;url:string;supports:string}[];checks:{question:string;options:Choice[];answer:number}[]};
+export type Review={solutions?:{item:string;answerIndex:number;reasoning:string}[];role:string;pass:boolean;issues:{severity:'blocker'|'major'|'minor';location:string;problem:string;repair:string}[];summary:string};
+export type PlanItem={standardId:string;subject:Subject;title:string;goal:string;prerequisite:string;minutes:number};
+export type DayPlan={theme:string;question:string;items:PlanItem[]};
+export type Profile={id:string;name:string;grade:number};
+export type Activity={standard_id?:string|null;next_retry_at?:number;id:string;subject:string;title:string;goal:string;prerequisite:string;minutes:number;position:number;status:string;phase:string;revision:number;payload:string|null;reviews:string;error:string|null};
+export type Evidence={id:string;activity_id:string;stage:number;response:string;choice:number|null;correct:number|null;updated_at:string};

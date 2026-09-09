@@ -1,0 +1,1 @@
+ALTER TABLE `launch_leads` ADD `confirm_hash` text;

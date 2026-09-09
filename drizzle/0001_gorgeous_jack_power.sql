@@ -1,0 +1,1 @@
+ALTER TABLE `members` ADD `assigned_activity_id` text;

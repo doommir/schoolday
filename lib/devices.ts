@@ -1,0 +1,8 @@
+import {lockAdult} from './adult-lock';
+import {cookies} from 'next/headers';
+import {z} from 'zod';
+import {ownLearner} from './accounts';
+import {db,hash,HttpError,uid} from './server';
+
+export async function createDeviceCode(body:unknown){const b=z.object({id:z.string().uuid()}).strict().parse(body);const p=await ownLearner(b.id);const bytes=crypto.getRandomValues(new Uint8Array(8)),code=Array.from(bytes,b=>b.toString(16).padStart(2,'0')).join('').toUpperCase(),expires=Date.now()+600000;await db().prepare('INSERT INTO device_codes(profile_id,code_hash,expires_at) VALUES(?,?,?) ON CONFLICT(profile_id) DO UPDATE SET code_hash=excluded.code_hash,expires_at=excluded.expires_at').bind(p.id,await hash(code),expires).run();return {code:code.match(/.{4}/g)!.join('-'),expiresAt:expires};}
+export async function redeemDeviceCode(body:unknown){const b=z.object({code:z.string().max(32)}).strict().parse(body),code=b.code.replace(/[\s-]/g,'').toUpperCase();if(!/^[A-F0-9]{16}$/.test(code))throw new HttpError('Enter the four groups of letters and numbers from your adult.');const p=await db().prepare('UPDATE device_codes SET expires_at=0 WHERE code_hash=? AND expires_at>? RETURNING profile_id').bind(await hash(code),Date.now()).first();if(!p)throw new HttpError('That code has expired or has already been used. Ask your adult for a new one.',409);const token=uid()+uid();await db().prepare('UPDATE profiles SET session=? WHERE id=?').bind(await hash(token),p.profile_id).run();(await cookies()).set('schoolday_session',token,{httpOnly:true,secure:true,sameSite:'lax',path:'/',maxAge:60*60*24*365});await lockAdult();return {ok:true};}

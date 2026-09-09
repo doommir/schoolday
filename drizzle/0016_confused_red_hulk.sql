@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `days_year_position` ON `days` (`learning_year_id`,`year_day`);

@@ -1,0 +1,1 @@
+export function GET(){return new Response('User-agent: *\nAllow: /start\nAllow: /try\nDisallow: /api/\nDisallow: /?\nSitemap: https://schoolday-os.sickyicky.chatgpt.site/sitemap.xml\n',{headers:{'Content-Type':'text/plain'}})}
