@@ -13,7 +13,7 @@ async function api(path:string,body?:unknown){const r=await fetch('/api/'+path,{
 const launchSteps = [
  {id:'ai',title:'Connect lesson generation',detail:'Save your OpenAI key in Settings, then return here to test the connection.',tab:'settings',target:''},
  {id:'provider',title:'Test the AI connection',detail:'Run the provider test below using your connected account.',tab:'',target:'launch-learning'},
- {id:'billing',title:'Connect live Stripe',detail:'Enter your live restricted key in Plan & billing. Setup reuses the $29 monthly price and connects payment updates.',tab:'billing',target:''},
+ {id:'billing',title:'Connect live Stripe',detail:'Enter your live restricted key in Plan & billing. Setup reuses the $49 monthly price and connects payment updates.',tab:'billing',target:''},
  {id:'policies',title:'Add your business policies',detail:'Save published privacy and subscription terms plus a monitored support email in Plan & billing.',tab:'billing',target:''},
  {id:'webhook',title:'Connect payment updates',detail:'Finish Stripe setup in Plan & billing to create the signed event endpoint.',tab:'billing',target:''},
  {id:'event',title:'Verify live payment delivery',detail:'Follow Automatic payment updates below. A delivered customer-created event verifies connectivity without charging anyone.',tab:'',target:'launch-payments'},
