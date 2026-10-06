@@ -58,7 +58,17 @@ test('math guide keeps hints, answers, grade campaigns and sitemap reachable wit
  const path='/resources/middle-school-math-check-at-home',html=await read(path);
  assert.match(html,/When your learner gets stuck/);
  assert.match(html,/https:\/\/ies.ed.gov\/ncee\/wwc\/PracticeGuide\/16/);
- assert.match(html,/<time dateTime="2026-09-15"|<time datetime="2026-09-15"/);
+ assert.match(html,/<time dateTime="2026-10-06"|<time datetime="2026-10-06"/);
+ const clean=html.replace(/<!--.*?-->/gs,'');
+ assert.match(clean,/\$29 versus \$32/);
+ assert.doesNotMatch(clean,/\$49 versus \$32/);
+ assert.match(clean,/Why isn’t the lower hourly rate always cheaper\?/);
+ const worked=clean.match(/<details><summary>Show the worked answer · grade 8<\/summary>(.*?)<\/details>/s)?.[1];
+ assert(worked,'comparison stays inside the collapsed worked answer');
+ assert.match(worked,/<caption>Compare the same number of hours in both rental plans<\/caption>/);
+ const rows=[...worked.matchAll(/<tr><th scope="row">(\d+)<\/th><td>\$(\d+)<\/td><td>\$(\d+)<\/td><\/tr>/g)];
+ assert.deepEqual(rows.map(r=>r.slice(1).map(Number)),[[0,5,0],[2,11,8],[4,17,16],[5,20,20],[8,29,32]]);
+ for(const [,hours,withFee,noFee] of rows){assert.equal(Number(withFee),3*Number(hours)+5);assert.equal(Number(noFee),4*Number(hours));}
  assert.equal((html.match(/<details>/g)||[]).length,6);
  assert.doesNotMatch(html,/<details[^>]*\bopen\b/);
  for(const grade of [6,7,8]){
