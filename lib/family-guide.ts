@@ -1,5 +1,5 @@
 export const familyGuideVersion='ca-family-2026-09-08';
-export const familyOffer={amount:2900,currency:'usd',interval:'month',intervalCount:1};
+export const familyOffer={amount:4900,currency:'usd',interval:'month',intervalCount:1};
 export const familySources=[
  {title:'California private school requirements',url:'https://www.cde.ca.gov/sp/ps/psaffedcode.asp'},
  {title:'File or retrieve a Private School Affidavit',url:'https://www.cde.ca.gov/sp/ps/affidavit.asp'},
